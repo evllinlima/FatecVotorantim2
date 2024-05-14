@@ -63,8 +63,6 @@ public class ListaLigada {
         }
     }
     public void adicionarOrdenacao(int valor, TipoOrdenacao tipo){
-               
-        
             
             if(tipo.equals(TipoOrdenacao.CRESCENTE)){
                //Add na lista de forma ordenada crescente
@@ -73,8 +71,6 @@ public class ListaLigada {
                 //Add na lista de forma ordenada decrescente
                     
                 }
-            
-            
             
         
     }
@@ -144,7 +140,7 @@ public class ListaLigada {
         return qtdNos;
     }
 
-    
+    //CRIAR ENUM
     
     
 }

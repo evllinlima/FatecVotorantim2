@@ -1,4 +1,4 @@
-apackage ContaCliente;
+package ContaCliente;
 
 public class Cliente {
     private String nome;
